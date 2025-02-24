@@ -1,8 +1,8 @@
 Gelxy Mini Shell 🛡️
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/yourusername/webshell)
-[![Security](https://img.shields.io/badge/security-high-green.svg)](https://github.com/yourusername/webshell/security)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/RootShelll/webshell)
+[![Security](https://img.shields.io/badge/security-high-green.svg)](https://github.com/RootShelll/webshell/webshell/security)
 
 Powerful PHP-based WebShell for Server Management and File Operations
 
